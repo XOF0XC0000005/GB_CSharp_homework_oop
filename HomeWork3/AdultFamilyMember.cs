@@ -10,10 +10,7 @@ namespace HomeWork3
             Father = father;
             Mother = mother;
             Spouse = spouse;
-            if (childrens != null)
-            {
-                Childrens = childrens;
-            }
+            Childrens = childrens;
         }
     }
 }
