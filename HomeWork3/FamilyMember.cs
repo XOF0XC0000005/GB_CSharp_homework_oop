@@ -20,7 +20,7 @@ namespace HomeWork3
             }
             else
             {
-                Console.WriteLine("Нет мамы");
+                Console.WriteLine("Нет информации по маме");
             }
 
             if (Father != null)
@@ -29,7 +29,7 @@ namespace HomeWork3
             }
             else
             {
-                Console.WriteLine("Нет папы");
+                Console.WriteLine("Нет информации по папе");
             }
 
         }
@@ -45,7 +45,7 @@ namespace HomeWork3
         {
             if (Childrens == null)
             {
-                Console.WriteLine("Детей нет!");
+                Console.WriteLine("Нет информации по детям!");
                 return;
             }
 
@@ -59,7 +59,7 @@ namespace HomeWork3
         {
             if (Spouse == null)
             {
-                Console.WriteLine("Супруга нет!");
+                Console.WriteLine("Нет информации по супругу!");
                 return;
             }
 
