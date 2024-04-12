@@ -1,10 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Channels;
-using System.Threading.Tasks;
-
 namespace HomeWork3
 {
     internal abstract class FamilyMember
@@ -23,22 +16,22 @@ namespace HomeWork3
         {
             if (Mother != null)
             {
-                Console.WriteLine($"Мама:\nИмя:{Mother.Name}\nВозраст:{Mother.Age}\nПол:{Mother.Sex}");
+                Console.WriteLine($"Мама: Имя:{Mother.Name} Возраст:{Mother.Age} Пол:{Mother.Sex}");
             }
             else
             {
                 Console.WriteLine("Нет мамы");
             }
-            
+
             if (Father != null)
             {
-                Console.WriteLine($"Папа:\nИмя:{Father.Name}\nВозраст:{Father.Age}\nПол:{Father.Sex}");
+                Console.WriteLine($"Папа: Имя:{Father.Name} Возраст:{Father.Age} Пол:{Father.Sex}");
             }
             else
             {
                 Console.WriteLine("Нет папы");
             }
-            
+
         }
 
         public void AddChildren(AdultFamilyMember children)
@@ -50,7 +43,7 @@ namespace HomeWork3
         }
         public void PrintChildrens()
         {
-            if (Childrens == null )
+            if (Childrens == null)
             {
                 Console.WriteLine("Детей нет!");
                 return;
@@ -70,12 +63,11 @@ namespace HomeWork3
                 return;
             }
 
-            Console.WriteLine($"Супруг: Имя:{Spouse.Name}\nВозраст:{Spouse.Age}\nПол:{Spouse.Sex}");
+            Console.WriteLine($"Супруг: Имя:{Spouse.Name} Возраст:{Spouse.Age} Пол:{Spouse.Sex}");
         }
 
         public void PrintCloseRelatives()
         {
-            Console.WriteLine("Супруг: ");
             PrintSpouse();
             Console.WriteLine($"Родители: ");
             PrintParents();
