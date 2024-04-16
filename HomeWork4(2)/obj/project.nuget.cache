@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "V0iKP1BAka6psm1e+JmaTI2WoU9uX48L+RVdzrzY/HJxVLR614EvxtuS6ER0W/oisyXLkRkF512hftK67MVf7Q==",
+  "success": true,
+  "projectFilePath": "D:\\C#_repos\\Seminar2\\Seminar1\\Seminar1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leva9\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\leva9\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\leva9\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\leva9\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
