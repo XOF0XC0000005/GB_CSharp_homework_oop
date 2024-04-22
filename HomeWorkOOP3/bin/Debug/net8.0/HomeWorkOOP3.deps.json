@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HomeWorkOOP3/1.0.0": {
+        "runtime": {
+          "HomeWorkOOP3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeWorkOOP3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

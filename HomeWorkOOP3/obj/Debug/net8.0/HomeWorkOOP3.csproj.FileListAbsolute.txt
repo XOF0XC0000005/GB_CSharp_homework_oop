@@ -1,0 +1,15 @@
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HomeWorkOOP3\bin\Debug\net8.0\HomeWorkOOP3.exe
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HomeWorkOOP3\bin\Debug\net8.0\HomeWorkOOP3.deps.json
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HomeWorkOOP3\bin\Debug\net8.0\HomeWorkOOP3.runtimeconfig.json
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HomeWorkOOP3\bin\Debug\net8.0\HomeWorkOOP3.dll
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HomeWorkOOP3\bin\Debug\net8.0\HomeWorkOOP3.pdb
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HomeWorkOOP3\obj\Debug\net8.0\HomeWorkOOP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HomeWorkOOP3\obj\Debug\net8.0\HomeWorkOOP3.AssemblyInfoInputs.cache
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HomeWorkOOP3\obj\Debug\net8.0\HomeWorkOOP3.AssemblyInfo.cs
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HomeWorkOOP3\obj\Debug\net8.0\HomeWorkOOP3.csproj.CoreCompileInputs.cache
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HomeWorkOOP3\obj\Debug\net8.0\HomeWorkOOP3.sourcelink.json
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HomeWorkOOP3\obj\Debug\net8.0\HomeWorkOOP3.dll
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HomeWorkOOP3\obj\Debug\net8.0\refint\HomeWorkOOP3.dll
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HomeWorkOOP3\obj\Debug\net8.0\HomeWorkOOP3.pdb
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HomeWorkOOP3\obj\Debug\net8.0\HomeWorkOOP3.genruntimeconfig.cache
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HomeWorkOOP3\obj\Debug\net8.0\ref\HomeWorkOOP3.dll
