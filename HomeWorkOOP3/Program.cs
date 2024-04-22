@@ -24,11 +24,6 @@
             int counter = 0;
 
             if (labirint[startI, startJ] == 1) return counter;
-            if (labirint[startI, startJ] == 2) 
-            {
-                labirint[startI, startJ] = 1;
-                counter++;
-            }
 
             var stack = new Stack<Tuple<int, int>>();
 
