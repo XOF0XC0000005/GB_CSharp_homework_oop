@@ -1,4 +1,4 @@
-﻿namespace HomeWork5
+namespace HomeWork5
 {
     internal class Calculator : ICalculator
     {
@@ -30,7 +30,7 @@
                 Console.WriteLine($"{SubCommand}.Отнять число.");
                 Console.WriteLine($"{DivCommand}.Разделить на число.");
                 Console.WriteLine($"{MultyCommand}.Умножить на число.");
-                Console.WriteLine($"{CancelResultCommand}.Отменить последнее действие.");
+                Console.WriteLine($"{CancelResultCommand}.Отменить действие.");
                 Console.WriteLine($"{ExitCommand}.Выйти из программы.\n");
                 Console.Write("Ввод: ");
 
@@ -67,8 +67,7 @@
         public void Sum()
         {
             Console.Clear();
-            Console.WriteLine("Сколько добавить?");
-            Console.Write("Ввод: ");
+            Console.Write($"{Result} + ");
 
             if (int.TryParse(Console.ReadLine(), out int result))
             {
@@ -80,8 +79,7 @@
         public void Div()
         {
             Console.Clear();
-            Console.WriteLine("На сколько разделить?");
-            Console.Write("Ввод: ");
+            Console.Write($"{Result} / ");
 
             if (int.TryParse(Console.ReadLine(), out int result))
             {
@@ -96,8 +94,7 @@
         public void Sub()
         {
             Console.Clear();
-            Console.WriteLine("Сколько вычесть?");
-            Console.Write("Ввод: ");
+            Console.Write($"{Result} - ");
 
             if (int.TryParse(Console.ReadLine(), out int result))
             {
@@ -109,8 +106,7 @@
         public void Multy()
         {
             Console.Clear();
-            Console.WriteLine("На сколько умножить?");
-            Console.Write("Ввод: ");
+            Console.Write($"{Result} * ");
 
             if (int.TryParse(Console.ReadLine(), out int result))
             {
