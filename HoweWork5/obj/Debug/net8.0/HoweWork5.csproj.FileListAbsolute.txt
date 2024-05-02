@@ -1,0 +1,15 @@
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HoweWork5\obj\Debug\net8.0\HoweWork5.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HoweWork5\obj\Debug\net8.0\HoweWork5.AssemblyInfoInputs.cache
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HoweWork5\obj\Debug\net8.0\HoweWork5.AssemblyInfo.cs
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HoweWork5\obj\Debug\net8.0\HoweWork5.csproj.CoreCompileInputs.cache
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HoweWork5\obj\Debug\net8.0\HoweWork5.sourcelink.json
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HoweWork5\bin\Debug\net8.0\HoweWork5.exe
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HoweWork5\bin\Debug\net8.0\HoweWork5.deps.json
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HoweWork5\bin\Debug\net8.0\HoweWork5.runtimeconfig.json
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HoweWork5\bin\Debug\net8.0\HoweWork5.dll
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HoweWork5\bin\Debug\net8.0\HoweWork5.pdb
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HoweWork5\obj\Debug\net8.0\HoweWork5.dll
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HoweWork5\obj\Debug\net8.0\refint\HoweWork5.dll
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HoweWork5\obj\Debug\net8.0\HoweWork5.pdb
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HoweWork5\obj\Debug\net8.0\HoweWork5.genruntimeconfig.cache
+C:\projects\c#_projects\GB_Seminars_Homework_Csharp\GB_Csharp_homeworks\HoweWork5\obj\Debug\net8.0\ref\HoweWork5.dll
