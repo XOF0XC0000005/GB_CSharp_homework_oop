@@ -17,8 +17,8 @@ namespace HomeWork7
 
             Console.WriteLine("I: " + parsedFromStringClass.I);
             Console.WriteLine("S: " + parsedFromStringClass.S);
-            Console.WriteLine("D: " + testClass.D);
-            Console.WriteLine("C: " + string.Join("", testClass.C));
+            Console.WriteLine("D: " + parsedFromStringClass.D);
+            Console.WriteLine("C: " + string.Join("", parsedFromStringClass.C));
         }
 
         public static object? StringToObject(string str, Type type)
