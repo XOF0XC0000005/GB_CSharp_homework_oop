@@ -11,6 +11,9 @@ namespace HomeWork7
 
             var toString = ObjectToString(testClass);
 
+            Console.WriteLine(toString);
+            Console.WriteLine();
+
             object toObject = StringToObject(toString, typeof(TestClass));
 
             TestClass parsedFromStringClass = toObject as TestClass;
