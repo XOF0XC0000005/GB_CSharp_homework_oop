@@ -17,7 +17,6 @@
 
             DirectoryInfo di = new DirectoryInfo(path);
             string[] dirs = Directory.GetDirectories(path);
-            bool flag = false;
 
             foreach (var file in di.GetFiles())
             {
@@ -31,20 +30,15 @@
 
                             if (value.Contains(text))
                             {
-                                flag = true;
                                 Console.WriteLine($"Файл с расширением {exten} и текстом {text}, \n находится в {path}");
                             }
                         }
                     }
                 }
-
-                if (flag) break;
             }
 
             foreach (var dir in dirs)
             {
-                if (flag) break;
-
                 FindExtensionAndText(dir, exten, text);
             }
         }
