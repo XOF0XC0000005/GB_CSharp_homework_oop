@@ -1,0 +1,15 @@
+D:\C#_repos\HomeWork8\HomeWork8\bin\Debug\net8.0\HomeWork8.exe
+D:\C#_repos\HomeWork8\HomeWork8\bin\Debug\net8.0\HomeWork8.deps.json
+D:\C#_repos\HomeWork8\HomeWork8\bin\Debug\net8.0\HomeWork8.runtimeconfig.json
+D:\C#_repos\HomeWork8\HomeWork8\bin\Debug\net8.0\HomeWork8.dll
+D:\C#_repos\HomeWork8\HomeWork8\bin\Debug\net8.0\HomeWork8.pdb
+D:\C#_repos\HomeWork8\HomeWork8\obj\Debug\net8.0\HomeWork8.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_repos\HomeWork8\HomeWork8\obj\Debug\net8.0\HomeWork8.AssemblyInfoInputs.cache
+D:\C#_repos\HomeWork8\HomeWork8\obj\Debug\net8.0\HomeWork8.AssemblyInfo.cs
+D:\C#_repos\HomeWork8\HomeWork8\obj\Debug\net8.0\HomeWork8.csproj.CoreCompileInputs.cache
+D:\C#_repos\HomeWork8\HomeWork8\obj\Debug\net8.0\HomeWork8.sourcelink.json
+D:\C#_repos\HomeWork8\HomeWork8\obj\Debug\net8.0\HomeWork8.dll
+D:\C#_repos\HomeWork8\HomeWork8\obj\Debug\net8.0\refint\HomeWork8.dll
+D:\C#_repos\HomeWork8\HomeWork8\obj\Debug\net8.0\HomeWork8.pdb
+D:\C#_repos\HomeWork8\HomeWork8\obj\Debug\net8.0\HomeWork8.genruntimeconfig.cache
+D:\C#_repos\HomeWork8\HomeWork8\obj\Debug\net8.0\ref\HomeWork8.dll
