@@ -1,8 +1,3 @@
-﻿using System.Data;
-using System.Text.Json;
-using System.Xml;
-using System.Xml.Serialization;
-
 namespace HomeWork9
 {
     internal class Program
